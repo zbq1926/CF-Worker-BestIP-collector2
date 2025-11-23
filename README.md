@@ -63,7 +63,7 @@
    npx wrangler deploy
    ```
 
-5. **配置定时任务**（可选）
+5. **配置定时任务**
    - 在 Cloudflare Dashboard 中为 Worker 添加定时触发器
    - 建议设置为每 12 小时运行一次
    - 修改定时更新操作如下
